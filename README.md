@@ -1,11 +1,23 @@
 # Machine_Learning
-A hands-on machine learning repository focused on data cleaning, exploratory data analysis, and implementing different ML models on multiple real-world datasets. Updated regularly with experiments and improvements.
 
-## Running the Notebook
+This repository documents my structured learning path in machine learning, starting from foundational concepts and progressing toward applied, real-world projects.
 
-The dataset is not included in this repository due to size limitations.
+The focus is on:
+- data understanding and preprocessing
+- exploratory data analysis
+- implementing machine learning algorithms from fundamentals
+- evaluating models using appropriate metrics
 
-To run the notebook:
-1. Download the dataset from Kaggle
-2. Place it inside pd.read_csv(downloaded dataset)
-3. Run `linear_regression.ipynb`
+Each folder represents a specific concept or model, with clear separation between experiments, datasets, and documentation.
+
+## Repository Structure
+
+- `linear_regression/`  
+  Foundational implementation and experiments with linear regression.
+
+More models and projects will be added incrementally as part of this learning progression.
+
+## Data Note
+
+Large datasets are not included in this repository due to size constraints.  
+Each model folder contains instructions on how to obtain and place the required data.
